@@ -153,6 +153,7 @@
     <ClInclude Include="crow_all.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="assets\index.html" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
