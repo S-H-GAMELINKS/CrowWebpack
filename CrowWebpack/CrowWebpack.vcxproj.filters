@@ -19,5 +19,7 @@
     <None Include="assets\index.html" />
     <None Include="assets\package.json" />
     <None Include="..\.gitignore" />
+    <None Include="assets\webpack.config.js" />
+    <None Include="assets\src\index.js" />
   </ItemGroup>
 </Project>
