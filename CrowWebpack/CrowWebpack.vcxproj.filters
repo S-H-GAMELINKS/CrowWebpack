@@ -17,5 +17,7 @@
   <ItemGroup>
     <None Include="packages.config" />
     <None Include="assets\index.html" />
+    <None Include="assets\package.json" />
+    <None Include="..\.gitignore" />
   </ItemGroup>
 </Project>
