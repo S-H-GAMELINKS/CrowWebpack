@@ -1,10 +1,10 @@
-import Vue from 'vue';
+import Vue from 'vue/dist/vue.esm';
 
 const app = new Vue({
-    el: '.app',
+    el: ".app",
     data: function () {
         return {
-            message: 'Hello Crow & Vue.js!'
+            message: "Hello Crow & Vue.js!"
         }
     }
 })
